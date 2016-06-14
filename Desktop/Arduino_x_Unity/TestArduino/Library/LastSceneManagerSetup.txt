@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/TutorialScene_ArduinoxUnity.unity
+  isLoaded: 1
+  isActive: 1
